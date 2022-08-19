@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/info-card-react/static/css/main.680d1bf3.css",
+    "main.js": "/info-card-react/static/js/main.6d026972.js",
+    "static/media/avatar.jpeg": "/info-card-react/static/media/avatar.47660104f8d6d3a544a2.jpeg",
+    "static/media/Instagram.svg": "/info-card-react/static/media/Instagram.b65fd1ea807b0dd362e3fc5606fde418.svg",
+    "static/media/GitHub.svg": "/info-card-react/static/media/GitHub.a6e245a37f0e87cef1e51c9c7e94ea47.svg",
+    "static/media/Twitter.svg": "/info-card-react/static/media/Twitter.5cb28d333b8d6744d0d9178c7ad1972d.svg",
+    "static/media/Linkedin.svg": "/info-card-react/static/media/Linkedin.98ddfbfe9fc6a60e122d51faaeec4fc8.svg",
+    "static/media/Facebook.svg": "/info-card-react/static/media/Facebook.1c2e1e60a9fefe1f4cc327632f5ffc3b.svg",
+    "index.html": "/info-card-react/index.html",
+    "static/media/Mail.svg": "/info-card-react/static/media/Mail.341d1e767b26e2540702fb63676d4501.svg",
+    "main.680d1bf3.css.map": "/info-card-react/static/css/main.680d1bf3.css.map",
+    "main.6d026972.js.map": "/info-card-react/static/js/main.6d026972.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.680d1bf3.css",
+    "static/js/main.6d026972.js"
+  ]
+}
